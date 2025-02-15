@@ -1,10 +1,7 @@
-
 const template = `
   <div class="card">
-      <header class="card-header">
-       
+      <header class="card-header" style="font-size: 24px; font-weight: bold; text-align: center;">
           Symptom Checker
-          
       </header>
       <main id="step-container" class="card-block">
         <!-- dynamic content goes here -->
